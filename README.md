@@ -25,4 +25,5 @@ After running app.py Copy the 127.0.0.1:5000/ using mouse button
 Don't press ctrl+ C from keyboard else the console will exit the running part
 
 Paste the url in browser and Enter the dataset value in order to predict Glass type.
+![alt text](http://url/to/img.png)
 
